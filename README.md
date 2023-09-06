@@ -60,5 +60,7 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 [Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
   
 ### Test Image
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/18561a3e-dbff-4fdb-90bc-0024e81cc1e7)
 
 ### Test GIF
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/3026a8f5-95ee-4cd1-af5a-859c4eae7fff)
