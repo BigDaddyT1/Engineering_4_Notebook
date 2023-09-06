@@ -63,5 +63,5 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/18561a3e-dbff-4fdb-90bc-0024e81cc1e7)
 
 ### Test GIF
-![gif](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/2a6c9cb8-9cbe-49e9-8194-f1b5d7c45949)
+file:///C:/Users/tbrown08/Downloads/Smiling%20Leo%20Perfect%20GIF.webp
 
