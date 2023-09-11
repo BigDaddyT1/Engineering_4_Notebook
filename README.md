@@ -3,31 +3,26 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launch Pad Part 2 (Lights)](#Launch Pad Part 2 (Lights))
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
-&nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Launch Pad Part 2 (Lights)
 
 ### Assignment Description
-
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green.
 
 ### Evidence 
-
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+Video
+https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(1).gif
 
 ### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+![WIN_20230911_13_43_14_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/980ce94a-4775-4535-b434-9f23ba5412ea)
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
-
+link to code, (https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%202.py). 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This project was very difficult getting back into the code was the easiest part. Everything else was a challenge uploading the photo and learning how to use the computer was hard. But in the end, I feel I can navigate through GitHub no and I can use the rasberry.py very well.
 
 &nbsp;
 
