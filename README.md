@@ -1,7 +1,5 @@
 # Engineering_4_Notebook
 
-&nbsp;
-
 ## Table of Contents
 * [Launch Pad Part 2 (Lights)](#Launch Pad Part 2 (Lights))
 * [Onshape_Assignment_Template](#onshape_assignment_template)
@@ -14,6 +12,7 @@ The assignment is to create code to countdown from 10 to 1 and at 0 print "lifto
 
 ### Evidence 
 Video
+![image]([https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Wow-gif.webp](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(1).gif))
 https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(1).gif
 
 ### Wiring
