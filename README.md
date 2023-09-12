@@ -1,32 +1,10 @@
 # Engineering_4_Notebook
 
 ## Table of Contents
-* [Launch Pad Part 2 (Lights)](#Launch Pad Part 2 (Lights))
+* [Launch Pad Part 2](#Launch Pad Part 2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
-
-## Launch Pad Part 2 (Lights)
-
-### Assignment Description
-The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green.
-
-### Evidence 
-Video
-![image]([https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Wow-gif.webp](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(1).gif))
-
-### Wiring
-![WIN_20230911_13_43_14_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/980ce94a-4775-4535-b434-9f23ba5412ea)
-
-### Code
-link to code, 
-(https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%202.py). 
-### Reflection
-This project was very difficult getting back into the code was the easiest part. Everything else was a challenge uploading the photo and learning how to use the computer was hard. But in the end, I feel I can navigate through GitHub no and I can use the rasberry.py very well.
-
-&nbsp;
-
-## Launch Pad Part 3 ()
-
+## Launch Pad Part 2
 ### Assignment Description
 The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green.
 
