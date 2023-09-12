@@ -33,13 +33,15 @@ The assignment is to create code to countdown from 10 to 1 and at 0 print "lifto
 ### Evidence 
 Video
 ![image]([https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Wow-gif.webp](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(1).gif))
-https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(1).gif
+
 
 ### Wiring
 ![WIN_20230911_13_43_14_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/980ce94a-4775-4535-b434-9f23ba5412ea)
 
 ### Code
-link to code, (https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%202.py). 
+link to code
+(https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%202.py). 
+
 ### Reflection
 This project was very difficult getting back into the code was the easiest part. Everything else was a challenge uploading the photo and learning how to use the computer was hard. But in the end, I feel I can navigate through GitHub no and I can use the rasberry.py very well.
 
@@ -67,7 +69,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 ## Media Test
 
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
+Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and if you want!
 
 ### Test Link
 
