@@ -1,7 +1,7 @@
 # Engineering_4_Notebook
 
 ## Table of Contents
-* [Launch Pad Part 2](#Launch Pad Part 2)
+* [LaunchpadPart2](#LaunchpadPart2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 ## Launch Pad Part 2
