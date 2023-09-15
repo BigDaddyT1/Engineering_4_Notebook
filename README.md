@@ -28,6 +28,28 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and if you want!
 
+## Launch Pad 1
+
+Countdown from 10 seconds down to Liftoff (at 0 seconds). That countdown must be printed to the serial monitor and say liftoff.
+
+### Part Link 
+
+
+
+### Part Image
+
+Take a nice screenshot of your Onshape document. 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
+
+## Media Test
+
+Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and if you want!
+
 ## Launch Pad Part 2
 ### Assignment Description
 The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green.
