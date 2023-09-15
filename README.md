@@ -65,7 +65,7 @@ link to code
 ### Reflection
 This project was very easy and adding little parts of code made this project easy. The documentation process was way faster and made everything run way smoother.
 
-### Launch Pad Part 4
+## Launch Pad Part 4
 
 The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green. Moreover, use a button to start the process and with the button use the 180 servos to spin 180 degrees when the countdown says 0 and the 108 servo turns 180 degrees.
 
