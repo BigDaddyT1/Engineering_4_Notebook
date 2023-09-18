@@ -77,7 +77,7 @@ Video
 
 ### Code
 link to code
-(https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%204.py). 
+[https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%204.py]. 
 
 ### Reflection
 
