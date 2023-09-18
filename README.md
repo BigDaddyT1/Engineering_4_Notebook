@@ -71,7 +71,7 @@ The assignment is to create code to countdown from 10 to 1 and at 0 print "lifto
 
 ### Evidence 
 Video
-(![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(2).gif))
+(https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(3).gif)
 
 ### Wiring 
 ![WIN_20230913_13_46_34_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/9ccc739c-9bc0-4a1e-8f4d-4dec28f09b91)
