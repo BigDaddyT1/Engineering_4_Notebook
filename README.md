@@ -56,7 +56,7 @@ Video
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(2).gif)
 
 ### Wiring
-![WIN_20230913_13_46_34_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/279b42e4-d950-4449-95fb-e8480f91c248)
+![WIN_20230919_14_09_28_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/1753f773-676b-4021-be64-0500dc6cce2a)
 
 ### Code
 link to code
