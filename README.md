@@ -90,6 +90,7 @@ This project was very easy adding the 180 servo was very simple and making it tu
  For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor on the computer. " Mr Millar says the units should be in m/s2"
 
 ### Evidence 
+![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/50d333b1-3502-4c65-a6c9-0a54631ee2e3)
 
 ### Wiring 
 ![WIN_20230919_13_51_59_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6b7b7c0b-7fac-4c4e-aede-b79793f24a05)
