@@ -65,6 +65,29 @@ link to code
 ### Reflection
 This project was very easy and adding little parts of code made this project easy. The documentation process was way faster and made everything run way smoother.
 
+## Launch Pad Part 4
+
+The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green. Moreover, use a button to start the process and with the button use the 180 servos to spin 180 degrees when the countdown says 0 and the 108 servo turns 180 degrees.
+
+### Evidence 
+Video
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(3).gif)
+
+### Wiring 
+![WIN_20230918_13_55_25_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/a9a12432-d9e4-40ba-a910-fef63cb531f9)
+
+### Code
+link to code
+[https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%204.py]. 
+
+### Reflection
+
+This project was very easy adding the 180 servo was very simple and making it turn 180 degrees made this project easy. The documentation process was way faster and made everything run way smoother almost have it down to a tee.
+
+## Media Test
+
+Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and if you want!
+
 
 ### Test Link
 
