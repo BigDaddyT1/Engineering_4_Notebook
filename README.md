@@ -84,10 +84,21 @@ link to code
 
 This project was very easy adding the 180 servo was very simple and making it turn 180 degrees made this project easy. The documentation process was way faster and made everything run way smoother almost have it down to a tee.
 
-## Media Test
+## Crash Avoidance Part 1
 
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and if you want!
+### Assignment Description
+ For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor on the computer. " Mr Millar says the units should be in m/s2"
 
+### Evidence 
+
+### Wiring 
+![WIN_20230919_13_51_59_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6b7b7c0b-7fac-4c4e-aede-b79793f24a05)
+
+### Code
+link to code
+[https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%201].
+### Reflection
+The Accelaromitor was very easy to learn the coding was very simple. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables.
 
 ### Test Link
 
