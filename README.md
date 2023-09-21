@@ -70,21 +70,21 @@ This project was very difficult getting back into the code was the easiest part.
 
 ## Launch Pad Part 3
 ### Assignment Description
-The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green. Moreover use a button to start the prosses. 
+The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green. Moreover, use a button to start the prosses. 
 
 ### Evidence 
 Video
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/ezgif.com-video-to-gif%20(2).gif)
 
 ### Wiring
-![WIN_20230919_14_09_28_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/1753f773-676b-4021-be64-0500dc6cce2a)
+![WIN_20230913_13_46_34_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/69d786a9-5d27-4210-bcbd-68f8cc6568f9)
 
 ### Code
 link to code
 (https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/launch%20pad%203.py). 
 
 ### Reflection
-This project was very easy and adding little parts of code made this project easy. The documentation process was way faster and made everything run way smoother.
+This project was very difficult in some aspects. adding the button was very hard because there were two types of buttons. I chose the breadboard button and it made things way less complicated in the long run. If i had to go back and fix anything I would tell people that coding to import a button can be very difficult if you try and import to much code. Keep things simple and add on little bits of code when needed. 
 
 ## Launch Pad Part 4
 
