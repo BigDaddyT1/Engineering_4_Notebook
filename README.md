@@ -28,6 +28,27 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and if you want!
 
+
+## Launch Pad 1
+
+### Assignment Description
+create code that will Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
+
+### Materials 
+What I used:
+Breadboard 
+Pico and USB cable.
+
+### Evidence
+(https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(2).gif)
+###  Code 
+This is a link to my code 
+(https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Launch%20Pad.py)
+
+### Reflection
+ Although I didn't think I could code this project it was a good way to jump back into the school year. I learned what a pico was and how I could display something on the serial monitor. If I could go back and change anything I would say the while true loop is crucial I had no idea what it was and how to import it into my code. Overall It was a very fun and exiting project getting back into coding is something I really need and I am grateful that I'm back and I'm excited for all  the things to come this year  
+
+
 ## Launch Pad Part 2
 ### Assignment Description
 The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green.
