@@ -123,6 +123,7 @@ link to code
 ### Reflection
 The Accelaromitor was very easy to learn the coding was very simple because I remembered the whole true loop. Coding is becoming easier and easier as the year progresses and using an accelerometer is fun. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables because I didn't fully read the directions. If I had to go back I would say read carefully and make sure everything is imported at the top of the code.
 
+## Fun
 ### Test Link
 
 [Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/test.py)
