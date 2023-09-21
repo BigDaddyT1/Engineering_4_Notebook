@@ -69,8 +69,9 @@ link to code
 This project was very difficult getting back into the code was the easiest part. Everything else was a challenge uploading the photo and learning how to use the computer was hard. But in the end, I feel I can navigate through GitHub no and I can use the rasberry.py very well.
 
 ## Launch Pad Part 3
+
 ### Assignment Description
-The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green. Moreover, use a button to start the prosses. 
+The assignment is to create code to countdown from 10 to 1 and at 0 print "liftoff". In addition to using a breadboard, 2 LED lights one red and one green, 2 resistors to create the countdown. counting down from 10-1 with the red light and "liftoff green. Moreover, use a button to start the process. 
 
 ### Evidence 
 Video
