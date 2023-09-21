@@ -104,7 +104,7 @@ link to code
 
 ### Reflection
 
-This project was very easy adding the 180 servo was very simple and making it turn 180 degrees made this project easy. The documentation process was way faster and made everything run way smoother almost have it down to a tee.
+This project I would say is the most difficult of all 4 launchpad assignments. I was stuck on this assignment for at least 2 days and learning to try and connect the green LED with the 180 servo. If I could go back I would say the the while true loop is so important and hitting tap to put the code in a loop is very important. Commenting code has been very hard for me because AI had no Idea the meaning of the code but this assignment really helped me piece things togehter.  The documentation process was way faster and made everything run way smoother almost having it down to a tee.
 
 ## Crash Avoidance Part 1
 
