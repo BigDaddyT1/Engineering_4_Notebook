@@ -115,13 +115,13 @@ This project I would say is the most difficult of all 4 launchpad assignments. I
 ![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/50d333b1-3502-4c65-a6c9-0a54631ee2e3)
 
 ### Wiring 
-![WIN_20230919_13_51_59_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6b7b7c0b-7fac-4c4e-aede-b79793f24a05)
+(![WIN_20230919_14_09_28_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/a6c49f3f-ed67-4720-9379-30acf85b6623)
 
 ### Code
 link to code
 [https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Crash%20Avoidance%20Part%201].
 ### Reflection
-The Accelaromitor was very easy to learn the coding was very simple. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables.
+The Accelaromitor was very easy to learn the coding was very simple because I remembered the whole true loop. Coding is becoming easier and easier as the year progresses and using an accelerometer is fun. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables because I didn't fully read the directions. If I had to go back I would say read carefully and make sure everything is imported at the top of the code.
 
 ### Test Link
 
