@@ -1,5 +1,4 @@
 import time 
- 
 
 # Using reversed()
 for x in reversed(range(1,11)):
