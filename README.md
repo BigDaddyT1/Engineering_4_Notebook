@@ -133,6 +133,15 @@ Automatic failures:
 The beam breaks
 The beam bends more than 35 mm
 
+### Assignment Requirements(From Canvas):
+The beam must use the provided attachment block with no modifications
+The beam with the attachment block must be able to fully engage with the holder
+The beam must use the example eye bolt mounting geometry
+The center of the eyebolt hole must be 180 mm from the front face of the attachment block (in a direction perpendicular to the front face)
+No part of the beam may extend below the bottom face of the attachment block
+All vertical angles must be >= 45° measured relative to the horizontal plane (no overhangs)
+The beam must be PLA material
+The entire beam, including attachment block, must weight <= 13 grams
 
 ### Part Link 
 link to my Onshape document: 
