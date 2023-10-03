@@ -123,6 +123,35 @@ link to code
 ### Reflection
 The Accelaromitor was very easy to learn the coding was very simple because I remembered the whole true loop. Coding is becoming easier and easier as the year progresses and using an accelerometer is fun. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables because I didn't fully read the directions. If I had to go back I would say read carefully and make sure everything is imported at the top of the code.
 
+
+## Beam Design #1 
+
+### Assignment Description
+working in teams of 1-2 people we are designing a 3D printed beam in Onshape with the goal of maximizing the weight the beam can hold before failure with a weight of 12.99 grams or less. with specific constrictions like no angles below 45 degrees or have any type of overhang/ underhang etc...
+
+Automatic failures:
+The beam breaks
+The beam bends more than 35 mm
+
+
+### Part Link 
+link to my Onshape document: 
+(https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/6c6a605be107bca51b691821)
+
+### Part Image
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Beam%20Starter%20%2B%20Holder%20(1).png)
+Description:
+-These are the holes we put into the bottom of the piece so we can lose mass for our project.
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Beam%20Starter%20%2B%20Holder%20(2).png)
+Description:
+- these are  the notches we put into the piece so we can loose mass for our project 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Beam%20Starter%20%2B%20Holder.png)
+Description:
+- this is a thrid image so you can see how good my part is.
+
+### Reflection
+This project was very fun to create getting back into shape was very difficult but dusting off the rust with this project was fun. Learning how to use the bowlen tool was very helpful helped me use lins and get dimensions down way faster than I thought was possible. The hardest part of the project was cutting mass if there was anything I could change I would go back and build from the ground up instead of just randomly placing items in my project. Overall was a very engaging partner activity. 
+
 ## Fun
 ### Test Link
 
