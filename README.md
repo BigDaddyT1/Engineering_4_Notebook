@@ -174,6 +174,9 @@ This project was very fun to create getting back into shape was very difficult b
 ### Description
 Run static finite element analyses on your beam to determine what areas need to be improved and if the design was completely trash redesign and improve. 
 
+### Link to Onshape 
+[Hyperlink text](https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/5adecb98b448bac80376089d)
+
 ### Images 
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/9ca20652-936f-4b3d-89f8-b45476ba20e4)
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/9b6bbb2f-758c-43dd-9e84-2bd15fd4e37e)
@@ -187,7 +190,10 @@ I worked with Cooper Morland and what we came up with was that right where the t
 
 ### Description
 Use data from FEA simulations to improve the maximum weight the beam can hold before meeting one of the two failure conditions. Remember, the two failure conditions are the beam breaking, or bending >=35 mm
+## Link to onshape
+[Hyperlink text](https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/5adecb98b448bac80376089d)
 
+## Images 
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/0ad68dad-7e63-4d34-86c1-d522d96bd4c2)
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/71e77cb0-5640-4cfa-9189-e24b2e02f621)
 
