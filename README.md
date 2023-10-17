@@ -124,10 +124,31 @@ link to code
 The Accelaromitor was very easy to learn the coding was very simple because I remembered the whole true loop. Coding is becoming easier and easier as the year progresses and using an accelerometer is fun. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables because I didn't fully read the directions. If I had to go back I would say read carefully and make sure everything is imported at the top of the code.
 
 
+## Crash Avoidance Part2
+
+### Assignment Description
+For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor on the computer in addition to that wire up an LED(Doesn't matter the color) and a battery pack to make the breadboard wireless. 
+
+### Requirements (from MR.MIller)
+-The module must have an accelerometer that continuously reports x, y, and z acceleration values.
+
+-The module must have an LED that turns on if the helicopter is tilted to 90 degrees. 
+
+-The module must be powered by a mobile power source. 
+
+### Wiring Diagram 
+![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/b1dff8ad-30c0-495a-8744-279e0dbe7fd8)
+
+### Evidence 
+![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(5).gif)
+
+### Reflection
+This project was very fun to create and very simple because all I had to do was add on an LED( Mine was Blue) and then add on a power source to make the breadboard wireless. The hardest part of the assignment was finding a space to put the power source on the breadboard because I wanted to challenge myself and only use one breadboard. If I could go back and do one thing differently I would make my life easier and get the extra breadboard. Overall the project was very fun to create and making something wireless and being able to take it around class and show others how much I'm progressing is very fun. 
+
 ## Beam Design #1 
 
 ### Assignment Description
-working in teams of 1-2 people we are designing a 3D printed beam in Onshape with the goal of maximizing the weight the beam can hold before failure with a weight of 12.99 grams or less. with specific constrictions like no angles below 45 degrees or have any type of overhang/ underhang etc...
+working in teams of 1-2 people we are designing a 3D printed beam in Onshape with the goal of maximizing the weight the beam can hold before failure with a weight of 12.99 grams or less. with specific constrictions like no angles below 45 degrees or having any type of overhang/ underhang etc...
 
 Automatic failures:
 The beam breaks
