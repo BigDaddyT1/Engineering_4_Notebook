@@ -123,6 +123,104 @@ link to code
 ### Reflection
 The Accelaromitor was very easy to learn the coding was very simple because I remembered the whole true loop. Coding is becoming easier and easier as the year progresses and using an accelerometer is fun. The hardest part of the project is getting the code to print out the ( X, Y, and Z) variables because I didn't fully read the directions. If I had to go back I would say read carefully and make sure everything is imported at the top of the code.
 
+
+## Crash Avoidance Part2
+
+### Assignment Description
+For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the serial monitor on the computer in addition to that wire up an LED(Doesn't matter the color) and a battery pack to make the breadboard wireless. 
+
+### Requirements (from MR.MIller)
+-The module must have an accelerometer that continuously reports x, y, and z acceleration values.
+
+-The module must have an LED that turns on if the helicopter is tilted to 90 degrees. 
+
+-The module must be powered by a mobile power source. 
+
+### Wiring Diagram 
+![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/b1dff8ad-30c0-495a-8744-279e0dbe7fd8)
+
+### Evidence 
+![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(5).gif)
+
+### Reflection
+This project was very fun to create and very simple because all I had to do was add on an LED( Mine was Blue) and then add on a power source to make the breadboard wireless. The hardest part of the assignment was finding a space to put the power source on the breadboard because I wanted to challenge myself and only use one breadboard. If I could go back and do one thing differently I would make my life easier and get the extra breadboard. Overall the project was very fun to create and making something wireless and being able to take it around class and show others how much I'm progressing is very fun. 
+
+## Beam Design #1 
+
+### Assignment Description
+working in teams of 1-2 people we are designing a 3D printed beam in Onshape with the goal of maximizing the weight the beam can hold before failure with a weight of 12.99 grams or less. with specific constrictions like no angles below 45 degrees or having any type of overhang/ underhang etc...
+
+Automatic failures:
+The beam breaks
+The beam bends more than 35 mm
+
+### Assignment Requirements(From Canvas):
+
+- The beam must use the provided attachment block with no modifications
+
+- The beam with the attachment block must be able to fully engage with the holder
+
+- The beam must use the example eye bolt mounting geometry
+
+- The center of the eyebolt hole must be 180 mm from the front face of the attachment block (in a direction perpendicular to the front face)
+
+- No part of the beam may extend below the bottom face of the attachment block
+
+- All vertical angles must be >= 45° measured relative to the horizontal plane (no overhangs)
+
+- The beam must be PLA material
+
+- The entire beam, including attachment block, must weight <= 13 grams
+
+### Part Link 
+link to my Onshape document: 
+(https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/6c6a605be107bca51b691821)
+
+### Part Image
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Beam%20Starter%20%2B%20Holder%20(1).png)
+Description:
+-These are the holes we put into the bottom of the piece so we can lose mass for our project.
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Beam%20Starter%20%2B%20Holder%20(2).png)
+Description:
+- these are  the notches we put into the piece so we can loose mass for our project 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/Beam%20Starter%20%2B%20Holder.png)
+Description:
+- this is a third image so you can see how good my part is.
+
+### Reflection
+This project was very fun to create getting back into shape was very difficult but dusting off the rust with this project was fun. Learning how to use the bowlen tool was very helpful helped me use lins and get dimensions down way faster than I thought was possible. The hardest part of the project was cutting mass if there was anything I could change I would go back and build from the ground up instead of just randomly placing items in my project. Overall was a very engaging partner activity. 
+
+## Beam Design #3
+
+### Description
+Run static finite element analyses on your beam to determine what areas need to be improved and if the design was completely trash redesign and improve. 
+
+### Link to Onshape 
+[Onshape](https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/5adecb98b448bac80376089d)
+
+### Images 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/9ca20652-936f-4b3d-89f8-b45476ba20e4)
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/9b6bbb2f-758c-43dd-9e84-2bd15fd4e37e)
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/42dd8379-7e95-4ae2-9ae1-4e6ba147106c)
+
+### Reflection 
+I worked with Cooper Morland and what we came up with was that right where the thickness of the beam ends is where it's most likely to snap. Ours had a lot of determination to not snap and that's what really matters. The good news is we can't do worse so improving it will be easy, we'll most likely give up width for our next design and add height all the way through so it's less likely to break under the 30 Newtons of force.
+
+
+## Beam Design #4
+
+### Description
+Use data from FEA simulations to improve the maximum weight the beam can hold before meeting one of the two failure conditions. Remember, the two failure conditions are the beam breaking, or bending >=35 mm
+## Link to onshape
+[Onshape](https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/5adecb98b448bac80376089d)
+
+## Images 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/0ad68dad-7e63-4d34-86c1-d522d96bd4c2)
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/71e77cb0-5640-4cfa-9189-e24b2e02f621)
+
+### Reflection 
+We improved our displacement by 3,149%. We completely redid our design, gave up width for height, and added a little bit of extra material at the bottom corners for support. Our new design is 12.86 grams with 13.3 mm of displacement. The stress map is mostly dark blue, if we had more time we could probably make improvements by adding support to all the corners at the base.
+
 ## Fun
 ### Test Link
 
