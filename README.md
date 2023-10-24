@@ -149,6 +149,13 @@ This project was very fun to create and very simple because all I had to do was 
 ### Assignment Description 
 For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the OLED screen on the breadboard in addition to that wire up an LED(Doesn't matter the color) and a battery pack to make the breadboard wireless. 
 
+### Assignment Requirements(According To Mr. MIllers canvas page)
+Assignment Requirements:
+The module must have an accelerometer that continuously reports x, y, and z acceleration values.
+The module must have an LED that turns on if the helicopter is tilted to 90 degrees. 
+The module must be powered by a mobile power source. 
+The module must have an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
+
 ### Link 
 This is my link to onshape 
 [Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/tree/main)
