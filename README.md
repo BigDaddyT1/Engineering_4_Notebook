@@ -154,19 +154,12 @@ This is my link to onshape
 [Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/tree/main)
  
 ### Wiring Diagram
-
+![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/b1dff8ad-30c0-495a-8744-279e0dbe7fd8)
 ### Evidence 
 ![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(6).gif)
 
 ### Reflection
-
-
-
-
-
-
-
-
+This assignment was very difficult in various ways because the coding was very hard. The hardest part of this assignment was the while true loop, not incorporating it to show on the OLED had me stumped for at least half an hour and it caused me so much trouble. In addition, making sure I had everything wired up was very difficult. Commenting as I went along made things calmer and slowed things down and helped me so much. If I could go back and change something I would make sure that when coding always use the while true loop and incorporate the OLED to make sure the OLED screen prints the values each second. Overall this project was very calming and very helpfull. 
 
 ## Beam Design #1 
 
