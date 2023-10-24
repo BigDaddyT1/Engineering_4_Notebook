@@ -144,6 +144,29 @@ For this assignment, the goal is to Wire up an accelerometer that returns accele
 
 ### Reflection
 This project was very fun to create and very simple because all I had to do was add on an LED( Mine was Blue) and then add on a power source to make the breadboard wireless. The hardest part of the assignment was finding a space to put the power source on the breadboard because I wanted to challenge myself and only use one breadboard. If I could go back and do one thing differently I would make my life easier and get the extra breadboard. Overall the project was very fun to create and making something wireless and being able to take it around class and show others how much I'm progressing is very fun. 
+## Crash Avoidance Part 3
+
+### Assignment Description 
+For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the OLED screen on the breadboard in addition to that wire up an LED(Doesn't matter the color) and a battery pack to make the breadboard wireless. 
+
+### Link 
+This is my link to onshape 
+[Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/tree/main)
+ 
+### Wiring Diagram
+
+### Evidence 
+![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(6).gif)
+
+### Reflection
+
+
+
+
+
+
+
+
 
 ## Beam Design #1 
 
