@@ -144,6 +144,32 @@ For this assignment, the goal is to Wire up an accelerometer that returns accele
 
 ### Reflection
 This project was very fun to create and very simple because all I had to do was add on an LED( Mine was Blue) and then add on a power source to make the breadboard wireless. The hardest part of the assignment was finding a space to put the power source on the breadboard because I wanted to challenge myself and only use one breadboard. If I could go back and do one thing differently I would make my life easier and get the extra breadboard. Overall the project was very fun to create and making something wireless and being able to take it around class and show others how much I'm progressing is very fun. 
+## Crash Avoidance Part 3
+
+### Assignment Description 
+For this assignment, the goal is to Wire up an accelerometer that returns acceleration values for the x, y, and z axes to the OLED screen on the breadboard in addition to that wire up an LED(Doesn't matter the color) and a battery pack to make the breadboard wireless. 
+
+### Assignment Requirements(According To Mr. MIllers canvas page)
+Assignment Requirements:
+The module must have an accelerometer that continuously reports x, y, and z acceleration values.
+
+The module must have an LED that turns on if the helicopter is tilted to 90 degrees. 
+
+The module must be powered by a mobile power source. 
+
+The module must have an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
+
+### Link 
+This is my link to onshape 
+[Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/tree/main)
+ 
+### Wiring Diagram
+![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/b1dff8ad-30c0-495a-8744-279e0dbe7fd8)
+### Evidence 
+![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(6).gif)
+
+### Reflection
+This assignment was very difficult in various ways because the coding was very hard. The hardest part of this assignment was the while true loop, not incorporating it to show on the OLED had me stumped for at least half an hour and it caused me so much trouble. In addition, making sure I had everything wired up was very difficult. Commenting as I went along made things calmer and slowed things down and helped me so much. If I could go back and change something I would make sure that when coding always use the while true loop and incorporate the OLED to make sure the OLED screen prints the values each second. Overall this project was very calming and very helpfull. 
 
 ## Beam Design #1 
 
