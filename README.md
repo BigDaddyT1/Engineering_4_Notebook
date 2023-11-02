@@ -249,11 +249,27 @@ We improved our displacement by 3,149%. We completely redid our design, gave up 
 
 ## Landing Area Part 1 (Functions)
 ### Assignment description
--Write a script that takes three coordinates and returns the area using a function on a monitor without the oled screed. (import the coordinates then get the area.) 
+-Write a script that takes three coordinates and returns the area using a function on a monitor without the OLED screed. (import the coordinates then get the area.) 
+### Assignment Requirements(From Canvas) From Mr. Miller:
+Landing Area Part 1 Requirements:
+- The code must ask for the user to input a set of three coordinates in (x,y) format
+
+- The triangle area must be determined using a function
+
+- If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script
+
+- The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km.
+
+- The code must return to the input stage after printing the area, and wait for user input.
+### Link to code 
+[Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/LandingAreaPart%201.py)
+
 ### Evidence
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/mmmmmm.gif)
+
 ### Reflection
-/- 
+- This assignment was very difficult for me because the coding took very long. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. If I could go back and change anything I would go back and make sure everything in the code made sense and that the sections of the code had proper lines of code( it would have saved me a lot of time). Overall the project was frustrating but well worth it in the end. 
+ 
 ## Fun
 ### Test Link
 
