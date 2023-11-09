@@ -277,17 +277,17 @@ Landing Area Part 1 Requirements:
 ### Assignment Requirements(From Canvas) From Mr. Miller:
 Landing Area Part 2 Requirements:
 
-The code must ask for the user to input a set of three coordinates in (x,y) format
+- The code must ask for the user to input a set of three coordinates in (x,y) format
 
-The triangle area must be determined using a function
+- The triangle area must be determined using a function
 
-If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script
+- If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script
 
-The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km.
+- The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km.
 
-The code must return to the input stage after printing the area, and wait for user input.
+- The code must return to the input stage after printing the area, and wait for user input.
 
-An onboard OLED screen must plot each triangle on a graph relative to the base location.
+- An onboard OLED screen must plot each triangle on a graph relative to the base location.
 
 ### Link to code 
 [Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Landingareapart2.py)
