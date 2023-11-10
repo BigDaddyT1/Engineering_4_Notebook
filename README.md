@@ -296,6 +296,7 @@ Landing Area Part 2 Requirements:
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(7).gif)
 
 ### Wiring Diagram 
+![WIN_20231110_13_32_36_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/a80780b6-63b1-4761-ada8-d01e9ba3d640)
 
 ### Reflection
 - This assignment was very difficult for me because the coding took very long. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. Being able to incorporate integers in my code was needed and I had a very difficult time finding that out. In addition to that I had a very hard time getting the actual OLED screen to turn on you have to wire everything up CORRECTLY. Overall was a very long and strenuous process. Very rewarding process in the end.
