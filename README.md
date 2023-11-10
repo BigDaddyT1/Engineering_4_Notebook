@@ -137,7 +137,7 @@ For this assignment, the goal is to Wire up an accelerometer that returns accele
 -The module must be powered by a mobile power source. 
 
 ### Wiring Diagram 
-![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/b1dff8ad-30c0-495a-8744-279e0dbe7fd8)
+![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/WIN_20231110_13_32_36_Pro.jpg)
 
 ### Evidence 
 ![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(5).gif)
