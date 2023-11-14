@@ -137,7 +137,7 @@ For this assignment, the goal is to Wire up an accelerometer that returns accele
 -The module must be powered by a mobile power source. 
 
 ### Wiring Diagram 
-![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/b1dff8ad-30c0-495a-8744-279e0dbe7fd8)
+![WIN_20230926_13_55_21_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/WIN_20231110_13_32_36_Pro.jpg)
 
 ### Evidence 
 ![My Project](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(5).gif)
@@ -269,6 +269,38 @@ Landing Area Part 1 Requirements:
 
 ### Reflection
 - This assignment was very difficult for me because the coding took very long. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. If I could go back and change anything I would go back and make sure everything in the code made sense and that the sections of the code had proper lines of code( it would have saved me a lot of time). Overall the project was frustrating but well worth it in the end. 
+
+## Landing Area Part 2 (Functions)
+### Assignment description
+-Write a script that takes three coordinates and returns the area using a function on a monitor with the use of an OLED screed. (import the coordinates then get the area.) and see the triangle on the OLED screen.
+
+### Assignment Requirements(From Canvas) From Mr. Miller:
+Landing Area Part 2 Requirements:
+
+- The code must ask for the user to input a set of three coordinates in (x,y) format
+
+- The triangle area must be determined using a function
+
+- If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script
+
+- The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km.
+
+- The code must return to the input stage after printing the area, and wait for user input.
+
+- An onboard OLED screen must plot each triangle on a graph relative to the base location.
+
+### Link to code 
+[Hyperlink text](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Landingareapart2.py)
+
+### Evidence
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(7).gif)
+
+### Wiring Diagram 
+![WIN_20231110_13_32_36_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/a80780b6-63b1-4761-ada8-d01e9ba3d640)
+
+### Reflection
+- This assignment was very difficult for me because the coding took very long. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. Being able to incorporate integers in my code was needed and I had a very difficult time finding that out. In addition to that I had a very hard time getting the actual OLED screen to turn on you have to wire everything up CORRECTLY. Overall was a very long and strenuous process. Very rewarding process in the end.
+ 
  
 ## Fun
 ### Test Link
