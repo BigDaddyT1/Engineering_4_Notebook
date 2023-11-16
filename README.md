@@ -301,6 +301,28 @@ Landing Area Part 2 Requirements:
 ### Reflection
 - This assignment was very difficult for me because the coding took very long. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. Being able to incorporate integers in my code was needed and I had a very difficult time finding that out. In addition to that I had a very hard time getting the actual OLED screen to turn on you have to wire everything up CORRECTLY. Overall was a very long and strenuous process. Very rewarding process in the end.
  
+## Morse Code 1
+### Assignment 
+The assignment is to change words in English into Morse code and change all the lowercase letters to uppercase letters.
+### Assignment Requirements(according to Mr.Miller)
+Assignment Requirements:
+Your script must accept text input from the user
+
+If the user types “-q”, your script must exit
+
+If the user types anything else, your script must translate the text to Morse code dots and dashes, and print those to the monitor
+
+The printed text must use a space to show breaks between letters, and a slash to show breaks between words
+
+### Evidence 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project%20(8).gif)
+
+### Wiring 
+No wiring needed 
+### Link to code
+[Code](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Morse1.py)
+### Reflection 
+This code was very frustrating and made me want to quit immediately. My brain had a mental breakdown and I couldn't keep up with what was going on. But after a while and some much-needed rest, I got through to the finish line. The coding was very difficult making if statements was very hard and my brain just wasn't letting me understand like how others do. If I could go back to help myself I would tell myself to be more patient and calm because if I get frustrated things only get worse.
  
 ## Fun
 ### Test Link
