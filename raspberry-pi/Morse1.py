@@ -1,3 +1,8 @@
+import board
+import digitalio
+import time
+led = digitalio.DigitalInOut(board.GP15)
+led.direction = digitalio.Direction.OUTPUT
 
 # Dictionary representing the morse code chart
 MORSE_CODE = { 'A':'.-', 'B':'-...',
@@ -15,7 +20,12 @@ MORSE_CODE = { 'A':'.-', 'B':'-...',
     '0':'-----', ', ':'--..--', '.':'.-.-.-',
     '?':'..--..', '/':'-..-.', '-':'-....-',
     '(':'-.--.', ')':'-.--.-'}
-    
+modifier = 0.25
+dot_time = 1*modifier
+dash_time = 3*modifier
+between_taps = 1*modifier
+between_letters = 3*modifier
+between_words = 7*modifier
 translated_message = ''# tells the code to put a space inbetween the code.
 
 while True:
@@ -30,3 +40,24 @@ while True:
         translated_message = translated_message + ' ' + MORSE_CODE[letter] # tells code to do translated message plus a space for the morse code to stay in one line. 
 
     print(translated_message) # this prints the code
+
+    for character in translated_message: #loop thru morse message
+        print(character)
+        if character == ".":
+            led.value = True
+            time.sleep(dot_time)
+            led.value = False
+        if character == "/":
+            led.value = True
+            time.sleep(between_taps)
+            led.value = False
+        if character == " ":
+            led.value = True
+            time.sleep(between_letters)
+            led.value = False
+        if character == "-":
+            led.value = True
+            time.sleep(dash_time)
+            led.value = False
+
+        time.sleep(dot_time)
