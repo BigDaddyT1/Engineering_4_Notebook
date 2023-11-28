@@ -219,7 +219,7 @@ This project was very fun to create getting back into shape was very difficult b
 ## Beam Design #3
 
 ### Description
-Run static finite element analyses on your beam to determine what areas need to be improved and if the design was completely trash redesign and improve. 
+Run static finite element analyses on your beam to determine what areas need to be improved and if the design was completely trash redesigned and improved. 
 
 ### Link to Onshape 
 [Onshape](https://cvilleschools.onshape.com/documents/a4035a22ba64776340356020/w/11ed539d4eb836d893f3062b/e/5adecb98b448bac80376089d)
@@ -299,7 +299,7 @@ Landing Area Part 2 Requirements:
 ![WIN_20231110_13_32_36_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/a80780b6-63b1-4761-ada8-d01e9ba3d640)
 
 ### Reflection
-- This assignment was very difficult for me because the coding took very long. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. Being able to incorporate integers in my code was needed and I had a very difficult time finding that out. In addition to that I had a very hard time getting the actual OLED screen to turn on you have to wire everything up CORRECTLY. Overall was a very long and strenuous process. Very rewarding process in the end.
+- This assignment was very confusing and very misleading at times during the whole strenuous process of Launch Pad 2. The hardest part of this assignment was the calculations for the area of the triangle and being able to do that was very essential for the project. In addition to that adding the additional code to show on the actual OLED screen made it 2 times a s hard.  Being able to incorporate integers in my code was needed and I had a very difficult time finding that out. In addition to that I had a very hard time getting the actual OLED screen to turn on you have to wire everything up CORRECTLY. Overall was a very long and strenuous process. Very rewarding process in the end.
  
 ## Morse Code 1
 ### Assignment 
