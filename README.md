@@ -323,7 +323,34 @@ No wiring needed
 [Code](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Morse1.py)
 ### Reflection 
 This code was very frustrating and made me want to quit immediately. My brain had a mental breakdown and I couldn't keep up with what was going on. But after a while and some much-needed rest, I got through to the finish line. The coding was very difficult making if statements was very hard and my brain just wasn't letting me understand like how others do. If I could go back to help myself I would tell myself to be more patient and calm because if I get frustrated things only get worse.
- 
+
+ ## Morse Code 2
+
+### Assignment 
+The assignment is to get an LED to blink in Morse code to the indicated letter and told to (-Q or -q) stop when told and to put all letters into uppercase to ensure everything is in Morse code.
+### Assignment Requirements(according to Mr.Miller)
+Assignment Requirements:
+Your script must accept text input by the user
+
+If the user types “-q”, your script must exit
+
+If the user types anything else, your script must translate the text to Morse code dots and dashes, and print those to the monitor
+
+The printed text must use a space to show breaks between letters, and a slash to show breaks between words
+
+The script must flash an LED to transmit the Morse code message using the timing sequence shown below
+
+### Evidence 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/images/My%20Project.gif)
+
+### Link to code
+[Code](https://github.com/BigDaddyT1/Engineering_4_Notebook/blob/main/raspberry-pi/Morse1.py)
+
+### Wiring Diagram 
+ ![WIN_20231128_13_32_33_Pro](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/1025ccc6-f62c-4302-b946-01ddb4e84361)
+
+ ### Reflection 
+ This project made my life a living hell the audacity of my LED burning out was insane and not knowing made things 10x worse. I thought I was doing something wrong and I hooked the LED up the wrong way the entirety of the time I was doing this project. The hardest part of this project was ensuring that the (-, ,/,.,) all had their own individual loops cause without them I could not have written what I needed to get done. (this was very important). Overall was a very exciting project because getting to see it come to life in front of my eyes was very exhilarating. 
 ## Fun
 ### Test Link
 
