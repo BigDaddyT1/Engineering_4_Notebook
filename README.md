@@ -372,7 +372,6 @@ You must be able to retrieve this data when plugged back into the computer
 ### Wiring Diagram
 
 ### Code
-# type: ignore 
 import adafruit_mpu6050 
 import busio
 import board
@@ -414,6 +413,7 @@ with open("/data.csv", "a") as datalog:
         datalog.flush()
         led.value = False
 ### Evidence 
+![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6de77c65-e13c-400f-bc83-4587764ba3ee)
 
 ### Reflection 
 
