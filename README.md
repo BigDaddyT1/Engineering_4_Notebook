@@ -351,6 +351,73 @@ The script must flash an LED to transmit the Morse code message using the timing
 
  ### Reflection 
  This project made my life a living hell the audacity of my LED burning out was insane and not knowing made things 10x worse. I thought I was doing something wrong and I hooked the LED up the wrong way the entirety of the time I was doing this project. The hardest part of this project was ensuring that the (-, ,/,.,) all had their own individual loops cause without them I could not have written what I needed to get done. (this was very important). Overall was a very exciting project because getting to see it come to life in front of my eyes was very exhilarating. 
+
+## Data 1
+### Assignment
+The goal of the assignment is to with your pico wire up an LED and use your accelerometer code from a previous assignment use that code to print values in a data sheet all while the LED turns on while the pico is tilted. 
+### Requirements According to (Mr. Miller) 
+Assignment Requirements:
+Your Pico must operate in “headless” mode – unplugged from the computer with a battery
+
+An LED must turn on when the Pico is tilted (same as Crash Avoidance Part 2)
+
+Your Pico must record time, X, Y, Z acceleration data, and whether or not the Pico was tilted
+
+You must save this information to the Pico’s onboard storage
+
+You must blink the onboard LED every time you save data
+
+You must be able to retrieve this data when plugged back into the computer
+
+### Wiring Diagram
+
+### Code
+# type: ignore 
+import adafruit_mpu6050 
+import busio
+import board
+import time 
+from digitalio import DigitalInOut, Direction 
+
+
+led1 = DigitalInOut(board.GP4)
+led1.direction = Direction.OUTPUT
+led = DigitalInOut(board.LED)
+led.direction = Direction.OUTPUT
+
+sda_pin = board.GP14
+scl_pin = board.GP15
+i2c = busio.I2C(scl_pin, sda_pin)
+mpu = adafruit_mpu6050.MPU6050(i2c)
+mpu.gyro
+
+with open("/data.csv", "a") as datalog:
+    while True:
+        acc=mpu.acceleration 
+        print(f" x angular acceleration {acc[0]}")
+        print(f" y angular acceleration {acc[1]}")
+        print(f" z angular acceleration {acc[2]}")
+        print("")
+        print("")
+    
+
+        if acc[2]<=0:
+            led1.value = True
+            tilt=1 
+        else:
+            led1.value=False    
+            tilt=0
+        t=time.monotonic()
+        datalog.write(f"{t},{acc[0]},{acc[1]},{acc[2]},{tilt}\n")
+        led.value = True
+        time.sleep(0.25) #wait
+        datalog.flush()
+        led.value = False
+### Evidence 
+
+### Reflection 
+
+
 ## Fun
 ### Test Link
 
