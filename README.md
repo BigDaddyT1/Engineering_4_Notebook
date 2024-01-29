@@ -372,46 +372,46 @@ You must be able to retrieve this data when plugged back into the computer
 ### Wiring Diagram
 
 ### Code
-import adafruit_mpu6050 
-import busio
-import board
-import time 
-from digitalio import DigitalInOut, Direction 
-
-
-led1 = DigitalInOut(board.GP4)
-led1.direction = Direction.OUTPUT
-led = DigitalInOut(board.LED)
-led.direction = Direction.OUTPUT
-
-sda_pin = board.GP14
-scl_pin = board.GP15
-i2c = busio.I2C(scl_pin, sda_pin)
-mpu = adafruit_mpu6050.MPU6050(i2c)
-mpu.gyro
-
-with open("/data.csv", "a") as datalog:
-    while True:
-        acc=mpu.acceleration 
-        print(f" x angular acceleration {acc[0]}")
-        print(f" y angular acceleration {acc[1]}")
-        print(f" z angular acceleration {acc[2]}")
-        print("")
-        print("")
-    
-
-        if acc[2]<=0:
-            led1.value = True
-            tilt=1 
-        else:
-            led1.value=False    
-            tilt=0
-        t=time.monotonic()
-        datalog.write(f"{t},{acc[0]},{acc[1]},{acc[2]},{tilt}\n")
-        led.value = True
-        time.sleep(0.25) #wait
-        datalog.flush()
-        led.value = False
+     import adafruit_mpu6050 
+     import busio
+     import board
+     import time 
+     from digitalio import DigitalInOut, Direction 
+     
+     
+     led1 = DigitalInOut(board.GP4)
+     led1.direction = Direction.OUTPUT
+     led = DigitalInOut(board.LED)
+     led.direction = Direction.OUTPUT
+     
+     sda_pin = board.GP14
+     scl_pin = board.GP15
+     i2c = busio.I2C(scl_pin, sda_pin)
+     mpu = adafruit_mpu6050.MPU6050(i2c)
+     mpu.gyro
+     
+     with open("/data.csv", "a") as datalog:
+         while True:
+             acc=mpu.acceleration 
+             print(f" x angular acceleration {acc[0]}")
+             print(f" y angular acceleration {acc[1]}")
+             print(f" z angular acceleration {acc[2]}")
+             print("")
+             print("")
+         
+     
+             if acc[2]<=0:
+                 led1.value = True
+                 tilt=1 
+             else:
+                 led1.value=False    
+                 tilt=0
+             t=time.monotonic()
+             datalog.write(f"{t},{acc[0]},{acc[1]},{acc[2]},{tilt}\n")
+             led.value = True
+             time.sleep(0.25) #wait
+             datalog.flush()
+             led.value = False
 ### Evidence 
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6de77c65-e13c-400f-bc83-4587764ba3ee)
 
