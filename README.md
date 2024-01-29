@@ -370,7 +370,7 @@ You must blink the onboard LED every time you save data
 You must be able to retrieve this data when plugged back into the computer
 
 ### Wiring Diagram
-
+![unnamed](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/17e40d63-59d8-4f84-86c8-804b27555176)
 ### Code
      import adafruit_mpu6050 
      import busio
@@ -416,7 +416,7 @@ You must be able to retrieve this data when plugged back into the computer
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6de77c65-e13c-400f-bc83-4587764ba3ee)
 
 ### Reflection 
-
+- 
 
 ## Fun
 ### Test Link
