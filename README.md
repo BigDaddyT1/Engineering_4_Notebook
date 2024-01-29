@@ -415,6 +415,10 @@ You must be able to retrieve this data when plugged back into the computer
 ### Evidence 
 ![image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/6de77c65-e13c-400f-bc83-4587764ba3ee)
 
+
+[image](https://github.com/BigDaddyT1/Engineering_4_Notebook/assets/113116205/43d9423b-d7d4-4b26-b8cc-06a78f431d26.gif)
+
+
 ### Reflection 
 - 
 
