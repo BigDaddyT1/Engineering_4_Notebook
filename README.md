@@ -420,7 +420,7 @@ You must be able to retrieve this data when plugged back into the computer
 
 
 ### Reflection 
-- 
+- This project even though I'm turning it in late was seemingly difficult at times was very fun to create and watch come to life. The project was hard because I was having trouble with my (LED if the tilt was greater than 0) and if not LED was off. That kept me going for a little while until I figured out I had to readjust my pins and start over because the wiring was all out of wack. If I could go back and change anything I would ensure wiring is all good and Code if im having trouble get help on it. Overall very engaging project and collecting the data and getting a refresher on how to take a Screen shot on one of these older computers was fun. 
 
 ## Fun
 ### Test Link
